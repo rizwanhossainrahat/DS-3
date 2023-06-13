@@ -1,0 +1,1 @@
+{"name":"Local: binary_search","url":"e:\\batch-3\\Data Structure\\DS-3\\binary_search.cpp","tests":[{"id":1686639380136,"input":"5\n2 4 5 7 10\n7","output":"YES"},{"id":1686639508025,"input":"5\n2 4 5 7 10\n8","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\batch-3\\Data Structure\\DS-3\\binary_search.cpp","group":"local","local":true}
